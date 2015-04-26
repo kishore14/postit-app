@@ -1,9 +1,0 @@
-=> {[32m[1;32m"[0m[32mutf8[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32m✓[1;32m"[0m[32m[0m,
- [32m[1;32m"[0m[32mauthenticity_token[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32mo69NYCcyA3c0PuO7aMw8sjItLZBRaULNGauQjZAsLcs=[1;32m"[0m[32m[0m,
- [32m[1;32m"[0m[32mpost[1;32m"[0m[32m[0m=>
-  {[32m[1;32m"[0m[32mtitle[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32mMy Second post[1;32m"[0m[32m[0m,
-   [32m[1;32m"[0m[32murl[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32mhttp://www.nfl.com[1;32m"[0m[32m[0m,
-   [32m[1;32m"[0m[32mdescription[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32mThis is NFL!![1;32m"[0m[32m[0m},
- [32m[1;32m"[0m[32mcommit[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32mCreate Post[1;32m"[0m[32m[0m,
- [32m[1;32m"[0m[32maction[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32mcreate[1;32m"[0m[32m[0m,
- [32m[1;32m"[0m[32mcontroller[1;32m"[0m[32m[0m=>[32m[1;32m"[0m[32mposts[1;32m"[0m[32m[0m}[0m
